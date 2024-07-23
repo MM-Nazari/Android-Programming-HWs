@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="auto">my current location</string>
+    <string name="map">choose from map</string>
+    <string name="list">add city</string>
+    <string name="res">show weather and pollution</string>
+</resources>
