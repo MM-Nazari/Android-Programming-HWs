@@ -24,10 +24,9 @@ The implemented Project Code is in [HW04 Code Folder](./HW4).
 ## Dependencies
 This project uses the following libraries:
 
-- [re](https://docs.python.org/3/library/re.html)
-- [ipaddress](https://docs.python.org/3/library/ipaddress.html)
-- [nmap](https://nmap.org/)
-- [cryptography](https://cryptography.io/en/latest/)
+- [Jetpack Compose]([https://docs.python.org/3/library/re.html](https://developer.android.com/jetpack/compose))
+- [Retrofit]([https://docs.python.org/3/library/ipaddress.html](https://github.com/square/retrofit))
+- [Coroutine]([https://nmap.org/](https://developer.android.com/kotlin/coroutines))
 
 ## IDE
 This project is developed using Android Studio.
